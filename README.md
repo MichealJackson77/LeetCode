@@ -20,11 +20,13 @@
 | ------- |
 | [0075-sort-colors](https://github.com/MichealJackson77/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MichealJackson77/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MichealJackson77/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MichealJackson77/LeetCode/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MichealJackson77/LeetCode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MichealJackson77/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MichealJackson77/LeetCode/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MichealJackson77/LeetCode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MichealJackson77/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
