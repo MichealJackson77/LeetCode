@@ -31,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichealJackson77/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MichealJackson77/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MichealJackson77/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/MichealJackson77/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichealJackson77/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MichealJackson77/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
