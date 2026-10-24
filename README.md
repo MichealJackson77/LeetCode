@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MichealJackson77/LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/MichealJackson77/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/MichealJackson77/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MichealJackson77/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
